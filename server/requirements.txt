@@ -21,6 +21,7 @@ langchain-huggingface
 
 # PDF Parsing
 PyPDF  # backend for PyPDFLoader via langchain_community
+PDFPlumberLoader
 
 # Environment Variables
 python-dotenv
